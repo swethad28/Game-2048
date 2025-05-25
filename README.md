@@ -38,7 +38,6 @@ This project highlights:
 - ✅ Deployment of a sample **2048 game** application using YAML manifests
 - ✅ Seamless traffic routing to the app via ALB using Ingress
 - ✅ Fully CLI-driven deployment workflow
-- ✅ Clean teardown with a single cluster delete command
 
 ---
 
