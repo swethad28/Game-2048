@@ -58,4 +58,8 @@ Clone this repo and follow the instructions in [`commands.sh`](./commands.sh) to
 
 ---
 
+## 🙏 Special Thanks
 
+Huge thanks to **Abhishek Veeramalla** for the amazing (https://youtu.be/RRCrY12VY_s?si=y-JVzv_YiC6N8IFL) that guided this entire setup. Your clear explanations and step-by-step walkthrough made it a breeze!
+
+---
